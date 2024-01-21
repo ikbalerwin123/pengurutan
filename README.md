@@ -1,6 +1,5 @@
 # Dokumentasi
-[https://github.com/IRFAN1515/Pengurutan.wiki.git](https://github.com/ikbalerwin123/pengurutan/wiki/Documentation)
-
+https://github.com/ikbalerwin123/pengurutan/wiki/Documentation
 # Program Pengurutan dengan Bubble Sort
 
 ## Deskripsi
