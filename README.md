@@ -1,3 +1,6 @@
+# Dokumentasi
+[https://github.com/IRFAN1515/Pengurutan.wiki.git](https://github.com/ikbalerwin123/pengurutan/wiki/Documentation)
+
 # Program Pengurutan dengan Bubble Sort
 
 ## Deskripsi
@@ -49,3 +52,5 @@ Fungsi ini menampilkan menu pilihan untuk pengguna.
 Program akan terus berjalan hingga pengguna memilih opsi "Selesai".
 
 *Catatan:* Pastikan file "hasil_pengurutan.txt" ada sebelum memilih opsi "Tampil hasil pengurutan".
+
+---
